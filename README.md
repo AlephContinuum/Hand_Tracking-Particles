@@ -94,7 +94,7 @@ Because this project uses ES6 Modules and webcam access, **it must be run on a l
 ## 📜 License
 
 This project is open-source and available for educational purposes. 
-
+This project is licensed under the MIT License.
 ---
 
 **Created with Three.js and MediaPipe.**
